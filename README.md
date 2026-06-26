@@ -23,7 +23,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=budhi-98&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=budhi-98&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budhi2698&layout=compact&theme=tokyonight"/>
 
 ## 🔥 GitHub Streak
 
