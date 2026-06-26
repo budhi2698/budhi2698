@@ -33,5 +33,6 @@
 
 - GitHub: https://github.com/budhi-98
 
+![snake gif](https://raw.githubusercontent.com/budhi2698/budhi2698/output/github-contribution-grid-snake.svg)
 ---
 ⭐ Thanks for visiting my profile!
