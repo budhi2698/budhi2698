@@ -19,7 +19,7 @@
 - 🎯 **Goal:** Full Stack Software Engineer  
 
   </td>
-  <td width="40%" align="right">
+  <td width="40%" align="Center">
 
 <img src="https://raw.githubusercontent.com/budhi2698/budhi2698/main/assets/demo.gif" width="280"/>
 
