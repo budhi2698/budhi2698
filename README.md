@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/budhi2698/budhi2698/main/assets/demo.gif" width="280"/>
+</p>
 # Hi there 👋, I'm Budhi Gurung
 
 
