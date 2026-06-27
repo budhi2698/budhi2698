@@ -1,32 +1,84 @@
-<p align="right">
-  <img src="https://raw.githubusercontent.com/budhi2698/budhi2698/main/assets/demo.gif" width="280"/>
-</p>
-# Hi there 👋, I'm Budhi Gurung
+<div align="center">
 
+# 👋 Hi there, I'm Budhi Gurung
 
-## 💫 About Me
+</div>
 
-- 🌍 From Bhutan
-- 💻 Software Developer | Data Analysis
-- 💼 Open to: Remote collaboration opportunities
-- 📧 Contact: budhimangurung926@gmail.com
-- 🌱 Currently learning Angular, TypeScript, Java & Spring Boot, Python, Mysql, Postgressql
-- 🎯 Goal: Becoming a fully on-site/remote Software Engineer
+<table>
+  <tr>
+    <td width="60%">
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+- 🌍 **From:** Bhutan  
+- 💻 **Role:** Software Developer  
+- 📊 **Field:** Data Analysis  
+- 💼 **Status:** Open to Remote Opportunities  
+- 📧 **Email:** budhimangurung926@gmail.com  
+- 🌱 **Learning:** Angular, TypeScript, Java, Spring Boot, Python, MySQL, PostgreSQL  
+- 🎯 **Goal:** Full Stack Software Engineer  
+
+  </td>
+  <td width="40%" align="right">
+
+<img src="https://raw.githubusercontent.com/budhi2698/budhi2698/main/assets/demo.gif" width="280"/>
+
+  </td>
+  </tr>
+</table>
+
+## 💻 Tech Stack & Tools
+
+### 🚀 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+### 🔧 Frameworks & Libraries
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+### ☁️ DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-## 📊 GitHub Stats
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=budhi-98&show_icons=true&theme=tokyonight)
+### 🔍 API & Others
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budhi2698&layout=compact&theme=tokyonight"/>
+---
+## 📊 GitHub Statics
+
+<table>
+  <tr>
+    <td width="60%" text-align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=budhi2698&show_icons=true&theme=tokyonight)
+
+  </td>
+  <td width="60%" text-align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=budhi2698&layout=compact&theme=tokyonight)
+
+  </td>
+  </tr>
+</table>
 
 ## 🔥 GitHub Streak
 
