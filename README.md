@@ -3,7 +3,7 @@
 # Hi there, I'm Budhi Gurung
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;Full+Stack+Engineer+in+Progress;Python+%7C+Angular+%7C+Java+%7C+Spring+Boot" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;Full+Stack+Engineer+in+Progress" />
 
 </div>
 
