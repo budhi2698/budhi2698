@@ -17,7 +17,7 @@
 
 - 🌍 **From:** Bhutan  
 - 💻 **Role:** Software Developer | Data Analyst  
-- 🧠 **Specialization:** Data Analysis, Backend Development, Web Development  
+- 🧠 **Specialization:** Data Analysis, Frontend Development, Web Development  
 - 💼 **Status:** Open to Remote Opportunities  
 - 🌱 **Currently Learning:** Angular, TypeScript, Java, Spring Boot, Python (Pandas, NumPy), MySQL, PostgreSQL  
 - 🎯 **Goal:** Become a Full Stack Software Engineer  
